@@ -22,14 +22,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](/HTML/Landing%20Page%20Huddle/desktop.png)
-![](/HTML/Landing%20Page%20Huddle/mobile.png)
+![](/images/desktop.png)
+![](/images/mobile.png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://huddle-landing-page-rafael.netlify.app]
 
 ## My process
 

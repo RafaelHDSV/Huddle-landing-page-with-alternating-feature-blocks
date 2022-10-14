@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://huddle-landing-page-rafael.netlify.app]
+- Solution URL: https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-html-css--K8lkbV10S
+- Live Site URL: https://huddle-landing-page-rafael.netlify.app
 
 ## My process
 

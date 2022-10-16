@@ -21,10 +21,13 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-
-![](/images/desktop.png)
-![](/images/mobile.png)
-
+  - Desktop
+  
+    ![](/images/desktop.png)
+    
+  - Mobile
+  
+    ![](/images/mobile.png)
 
 ### Links
 
